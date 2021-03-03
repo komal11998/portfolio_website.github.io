@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+ .max-width{
+  max-width: 1300px;
+  padding: 0 80px;
+  margin: auto;
+}
+.image{
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+/* navbar styling*/
+.navbar{
+  position: fixed;
+   width: 100%;
+  padding: 30px 0;
+  /* background: #ce98b1; */
+  font-family: 'Ubuntu' sans-serif;
+}
+.navbar .sticky{
+  padding: 30px 0;
+  background: #ce98b1;
+}
+.navbar .max-width{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar .logo a{
+  color: #fff;
+  font-size: 35px;
+  font-weight: 600;
+}
+.navbar .logo a span{
+  color: #6e2849;
+}
+.navbar .menu li{
+  list-style-type:none;
+  display: inline;
+}
+.navbar .menu li a {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 25px;
+  transition: color 0.3s ease;
+} 
+.navbar .menu li a:hover{
+  color: #6e2849;
+}
+
+/* home section styling */
+.home {
+  display: flex;
+  background: url("/images/back.jpg") no-repeat center;
+  height: 100vh;
+  min-height: 500px;
+  font-family: 'Ubuntu' sans-serif;
+}
+
+.home .max-width{
+  margin: auto 0 auto 40px;
+}
+.home .home-content .text-1{
+  font-size: 27px;
+}
+.home .home-content .text-2{
+  font-size: 75px;
+  font-weight: 600;
+  margin-left: -3px;
+}
+.home .home-content .text-3{
+  font-size: 40px;
+  margin: 5px 0;
+}
+.home .home-content .text-3 span{
+  color:  #6e2849;
+  font-weight: 600;
+}
+.home .home-content a{
+  display: inline-block;
+  background: #6e2849;
+  color: #fff;
+  font-size: 25px;
+  padding: 12px 36px;
+  border-radius: 6px;
+  border: 2px solid #6e2849;
+  transition: all 0.3s ease;
+}
+.home .home-content a:hover{
+  color:#fff;
+  background: none;
+  border: none;
+  font-size: 50px;
+}
+
+.pic{
+  padding-top: 100px;
+  padding-right: 50px;
+}
+.home .pic img{
+  float: right;
+  border-radius: 50%;
+  height: 400px;
+}
+
+
+/* about section styling */
+.about{
+  font-family: 'Ubuntu' sans-serif;
+}
+.about .title{
+  font-family: 'Ubuntu' sans-serif;
+}
+.about .about-content .left img{
+  height: 400px;
+}
