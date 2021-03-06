@@ -206,19 +206,6 @@ section .title::after{
   font-size: 50px;
 }
 
-.pic{
-  padding-top: 70px;
-  margin-left:250px ;
-  margin-right: 0px;
-  float: right;
-}
-/* img{
-   float: right;
-  margin-right: 0px; 
-  height: 500px;
-  object-fit: cover;
-  border-radius: 100%;
-} */
 
 /* about section styling */
 .about{
