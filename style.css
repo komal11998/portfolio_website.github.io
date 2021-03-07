@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home {
   display: flex;
-  background: url("https://github.com/komal11998/abc.github.io/blob/a2426d2350654f2c896c0c9d302edb1448648764/back.jpg") no-repeat center; 
+  background: url("https://github.com/komal11998/abc.github.io/back.jpg") no-repeat center; 
   background-attachment: fixed;  
   background-size: cover; 
   height: 100vh;
