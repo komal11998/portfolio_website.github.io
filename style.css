@@ -164,9 +164,9 @@ section .title::after{
 /* home section styling */
 .home {
   display: flex;
-  background: url("/back.jpg") no-repeat center;
+  background: url("../back.jpg") no-repeat center; 
   background-attachment: fixed;  
-  background-size: cover;
+  background-size: cover; 
   height: 100vh;
   min-height: 500px;
   font-family: 'Ubuntu' sans-serif;
