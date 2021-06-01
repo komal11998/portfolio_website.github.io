@@ -2,7 +2,7 @@
 
 Website link: https://komal11998.github.io/portfolio_website.github.io/
 
-                                                               Desktop view
+### Desktop view
 
 ![image](https://user-images.githubusercontent.com/66066215/120141911-fddc7380-c1fa-11eb-95e0-fcb888a15b08.png)
 
@@ -28,7 +28,7 @@ Website link: https://komal11998.github.io/portfolio_website.github.io/
 
 
                                                   
-                                                                 Mobile view
+   ### Mobile view
                                                                                 
    ![image](https://user-images.githubusercontent.com/66066215/120142196-8a873180-c1fb-11eb-900c-e69d8d9237a4.png)
    
